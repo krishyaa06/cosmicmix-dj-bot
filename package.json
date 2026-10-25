@@ -1,0 +1,15 @@
+{
+  "name": "cosmicmix-dj-bot",
+  "version": "1.0.0",
+  "description": "CosmicMix DJ Bot — futuristic Discord music bot with stylish controls and YouTube playback",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "play-dl": "^1.9.6"
+  }
+}
