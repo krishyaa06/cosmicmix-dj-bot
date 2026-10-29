@@ -19,6 +19,10 @@
   ],
   "author": "Soumya Bhandare (krishyaa06)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishyaa06/cosmicmix-dj-bot/issues"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-bots-panel/#/bot/cosmicmix",
   "engines": {
     "node": ">=18.17"
   },
